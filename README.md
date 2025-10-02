@@ -1,4 +1,4 @@
-![logo](https://github.com/Sulphite05/Sulphite05/blob/main/banner%20link.png)
+![logo]
 
 <h1 align="center">Hi 👋, I'm Manahil Ejaz</h1>
 <h3 align="center">A Computer Systems Engineering Student passionate about AI/ML, Computer Vision & Hardware Design</h3>
@@ -7,7 +7,7 @@
 
 - 🌱 I'm currently learning **SystemVerilog, UVM, and Advanced Computer Vision**
 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/your-username)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/Manahil4)
 
 - 💬 Ask me about **Computer Vision, Machine Learning, Digital Design, and Embedded Systems**
 
@@ -19,8 +19,8 @@
 
 <h2 align="left">Connect With Me:</h2>
 <p align="center">
-<a href="https://linkedin.com/in/your-linkedin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-linkedin" height="70" width="80" /></a>
-<a href="https://leetcode.com/your-leetcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="your-leetcode" height="70" width="80" /></a>
+<a href="https://www.linkedin.com/in/manahilejaz16/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-linkedin" height="70" width="80" /></a>
+
 </p>
 
 <br /> 
@@ -73,12 +73,12 @@
 
 <h2 align="left">GitHub Stats:</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=your-username&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Manahil4&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Manahil4&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 <p align="center"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manahil4&theme=radical" alt="GitHub Streak" />
 </p>
 
-![](https://komarev.com/ghpvc/?username=your-username&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=Manahil4&color=blueviolet)
